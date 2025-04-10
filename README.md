@@ -4,7 +4,7 @@
 実装は主にけんちょんさんの[AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067)の実装を参考にし、Pythonのコードもそれをなぞるような実装にすることで初学者でも理解しやすいプログラムを目指しました。類題に関しても上記のサイトのものから厳選して使用しています。
 
 ## 主な対象者
-[APG4b](https://atcoder.jp/contests/APG4b)や[アルゴ式](https://algo-method.com/)でプログラミングの基礎を勉強してこれから競技プログラミングの勉強をしようという人
+[APG4b](https://atcoder.jp/contests/APG4b)や[アルゴ式](https://algo-method.com/)でプログラミングの基礎を勉強して、実際に使うことでプログラミングを更に勉強したいという人。
 
 ## 対応言語
 C++,Python
